@@ -1,3 +1,15 @@
+#carouselExampleControls{
+    margin-left: 20%;
+    height: 400px;
+}
+.img-fluid:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+    
+}
+.img-fluid{
+    height: 100%;
+}
 .text-center{
     color: dodgerblue;
     padding: 30px;
@@ -9,4 +21,7 @@
 }
 .explor-f{
     color: indigo;
+}
+.carousel-item{
+    height:400px;
 }
